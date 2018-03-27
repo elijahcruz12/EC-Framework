@@ -1,6 +1,5 @@
 # EC-Framework
-
-![Github All Releases](https://img.shields.io/github/downloads/elijahcruz12/EC-Framework/total.svg)
+[![Github All Releases](https://img.shields.io/github/downloads/elijahcruz12/EC-Framework/total.svg)](https://github.com/elijahcruz12/EC-Framework/releases)
 Current Version - 0.0.1
 
 EC-Framework is a PHP framework being actively developed on to create websites quickly with minimal effort.
