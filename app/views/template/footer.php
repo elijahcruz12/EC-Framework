@@ -1,5 +1,8 @@
-        <div class="footer">
-            <p style="text-align: center">This is the footer</p>
+        <footer class="footer">
+          <div class="container">
+            <span class="text-muted">Place sticky footer content here.</span>
+          </div>
+        </footer>
         </div>
     </body>
 </html>
