@@ -1,0 +1,15 @@
+{
+    "name": "elijahcruz12/ecframework",
+    "description": "The new PHP framework.",
+    "type": "project",
+    "require": {
+        "symfony/routing": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ECWebServices",
+            "email": "ecwebservices@gmail.com"
+        }
+    ]
+}

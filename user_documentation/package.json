@@ -1,0 +1,19 @@
+{
+  "name": "ec-framework",
+  "version": "0.0.1",
+  "description": "The new PHP framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahcruz12/EC-Framework.git"
+  },
+  "author": "elijahcruz12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elijahcruz12/EC-Framework/issues"
+  },
+  "homepage": "https://github.com/elijahcruz12/EC-Framework#readme"
+}
