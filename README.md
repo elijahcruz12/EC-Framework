@@ -15,6 +15,7 @@ EC-Framework is NOT like anything you have used before. This framework is made f
 ## Requirements
  * Composer Installed Globally [Details to Install Here](https://getcomposer.org/doc/00-intro.md#globally)
  * PHP v7.1.15+
+ * Apache2 (With the following mods: rewrite, expire, and deflate. These may not already be included in your installation.)
 
 ## Install
 Installation is easy.
