@@ -1,6 +1,6 @@
 <?php
 /**
- * DevNote's Static Variables
+ * EC-Framework's Static Variables
  * 
  * This file contains variables used throughout the site
  */
@@ -10,3 +10,6 @@ $config["sitetitle"] = "EC-Framework";
 
 //The url eg. http://example.com/ (MUST HAVE TRAILING SLASH)
 $config['siteurl'] = "https://ec-framework-ecwebservices.c9users.io/";
+
+//The description of the site.
+$config['sitedesc'] = "Site Created by EC-Framework";

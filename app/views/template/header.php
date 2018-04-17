@@ -3,10 +3,10 @@
     <head>
         <title><?php echo $pagetitle;?> - <?php echo $sitetitle; ?></title>
         <meta charset="UTF-8">
-        <meta name="description" content="<?php echo $sitedesc;?>">
+        <meta name="description" content="<?php echo site_desc();?>">
         <meta name="keywords" content="<?php echo $sitekeywords;?>">
-        <meta name="generator" content="EC-Framework">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <?php echo $echeader?>
         
         <!-- Bootstrap is provided in cdn form to allow you to change it. -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
