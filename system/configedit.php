@@ -15,6 +15,21 @@ function base_url(){
     echo $siteurl;
 }
 
+//Function for showing variables through the console even if Devmode is disabled
+if($config['debugging'] == true) {
+    function console_log( $data ){
+      echo '<script>';
+      echo 'console.log('. json_encode( $data ) .')';
+      echo '</script>';
+    }
+}
+else {
+    function console_log($data) {
+        //Does nothing if debugging isn't enabled.
+        return;
+    }
+}
+
 //We Need to check if the site is in Development Mode
 if($config['devmode'] == true){
     //Show ALL errors
