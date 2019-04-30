@@ -1,6 +1,4 @@
 <?php
-//  Only edit core if in beta. Be sure after each major change to commit the changes that way if all fails we can go back.
-
 //Get composer autoload.
 if(file_exists("vendor/autoload.php"));
 
