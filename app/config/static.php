@@ -22,3 +22,5 @@ $config['mysqluser'] = "username";
 $config["mysqlpass"] = "password";
 
 $config['mysqldb'] = "database";
+
+$config['usertable'] = "usertable";
