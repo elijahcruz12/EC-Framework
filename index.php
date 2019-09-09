@@ -1,7 +1,7 @@
 <?php
 /**
- * DevNote By Elijah Cruz
- * Version 0.0.1 - Alpha
+ * EC-Framework By Elijah Cruz
+ * Version 0.0.1 - Beta
  */
  
 //  Get the core
